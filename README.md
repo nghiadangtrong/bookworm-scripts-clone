@@ -1,5 +1,8 @@
 # bookworm-scripts (updated June 28, 2024)
 
+## Tutorial
+[Youtube](https://www.youtube.com/watch?v=EEbnxSx2K5Y)
+
 ## X11 Window Managers
 Assuming you have already installed a minimal Debian 12 install.
 The series of shell scripts are intended to facilitate installing popular window managers.
